@@ -1,6 +1,6 @@
 ﻿### Préface
 
-Disobeying the rules listed on this page while using any Avicus Network service will result in a punishment in the form of a warn, kick, temporary ban, permanent ban, temporary website ban, permanent website ban or a network ban. The punishment is dependent on the severity of the rule broken and the judgement of the staff member. Previous infractions will be taken into account when punishing a player.
+Désobéir les règles listées sur cette page tout en utilisant n'importe quel service du résau Avicus aura pour résultat une punition en forme d'avertissement, kick, exclusion temporaire, exclusion définitive, exclusion temporaire sur le site web, exclusion définitive sur le site web ou une exclusion sur tout le résau. La punition dépend de l'importance de la règle et du jugement du personnel. Les infractions précédentes seront prises en compte lors de la punition.
 
 Although it is not a requirement, we highly encourage all players to use the /report feature in game upon encountering a player who is breaking any of the rules listed on this page. If the player is not in game or the rule broken does not pertain to the Minecraft server itself, please contact a staff member through Skype, email or our Teamspeak server.
 
@@ -8,7 +8,7 @@ Although it is not a requirement, we highly encourage all players to use the /re
 
 1. Maintain a casual and positive atmosphere at all times. Be respectful of all players. Harassment and bullying are strictly not allowed.
 2. Scamming (the act of stealing information, money, accounts or other private goods through deception or trickery) is not allowed and will result in a severe punishment.
-3. The communication features provided through our Minecraft server, the forums and the Avicus Teamspeak server is a privilage. Abusing messaging features through partaking in one of the following actions below is strictly against the rules. If you are unsure if content that you intend to send through chat is allowed, please contact a staff member to verify the content.
+3. The communication features provided through our Minecraft server, dthe forums and the Avicus Teamspeak server is a privilage. Abusing messaging features through partaking in one of the following actions below is strictly against the rules. If you are unsure if content that you intend to send through chat is allowed, please contact a staff member to verify the content.
     - Spamming chat: repeatedly sending similar or identical messages to the point in which it may be bothersome and annoying to other users
     - Linking to material that may be considered objectionable
     - Linking to content that promotes other Minecraft services. This includes, but is not limited to, other Minecraft servers and their corresponding websites and social media content that promotes other Minecraft servers
