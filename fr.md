@@ -1,4 +1,4 @@
-﻿### Preface
+﻿### Préface
 
 Disobeying the rules listed on this page while using any Avicus Network service will result in a punishment in the form of a warn, kick, temporary ban, permanent ban, temporary website ban, permanent website ban or a network ban. The punishment is dependent on the severity of the rule broken and the judgement of the staff member. Previous infractions will be taken into account when punishing a player.
 
