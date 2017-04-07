@@ -42,7 +42,7 @@ Although it is not a requirement, we highly encourage all players to use the /re
 8. Combat logging (logging off or leaving your team in anticipation of dying) is strictly not permitted.
 
 
-### C. Client Modifications
+### C. Modifications Du Client
 
 1. Any client modifications that give you a severe, game altering advantage over other Minecraft players is not allowed.
 2. **The mods listed below are permitted for use through Avicus:**
@@ -73,7 +73,7 @@ Although it is not a requirement, we highly encourage all players to use the /re
 
   
 
-### D. Forum Rules
+### D. Règles Du Forum 
 
 1. Do not create topics or posts that provoke or insult other people or groups. Any content that includes rudeness, harassment, mocking or public shaming will be archived and further punishments may be issued.
 2. Do not encourage "flame wars" or other inflammatory discussions.
@@ -99,7 +99,7 @@ Although it is not a requirement, we highly encourage all players to use the /re
 4. Team leaders are ultimately responsible for each team members actions.
 5. Team names, tags and about pages must be appropriate. Any team names, tags or about pages that aren’t appropriate will be removed and the leaders will be punished.
 
-### F. Other
+### F. Autre
 
 1. These rules are subject to change without notice. Players are responsible for keeping up with rule changes, it is up to you to keep checking the rule page.
 2. There is a one week grace period for rule changes.
