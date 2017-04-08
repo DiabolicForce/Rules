@@ -2,7 +2,7 @@
 
 Désobéir les règles listées sur cette page tout en utilisant n'importe quel service du résau Avicus aura pour résultat une punition en forme d'avertissement, kick, exclusion temporaire, exclusion définitive, exclusion temporaire sur le site web, exclusion définitive sur le site web ou une exclusion sur tout le résau. La punition dépend de l'importance de la règle et du jugement du personnel. Les infractions précédentes seront prises en compte lors de la punition.
 
-Même si cela n'est pas obligatoire, on encourage tout les joueurs à utiliser /report s'ils croisent un joueur qui ne respecte pas les régles listées sur cette page. Si le joueur ou les régles ne concernent pas le server Minecraft, please contact a staff member through Skype, email or our Teamspeak server.
+Même si cela n'est pas obligatoire, on encourage tout les joueurs à utiliser /report s'ils croisent un joueur qui ne respecte pas les régles listées sur cette page. Si le joueur ou les régles ne concernent pas le server Minecraft, on vous encourage de contacter un membre du personnel sur Skype, par email ou sur Teamspeak.
 
 ### A. General Etiquette and Behavior
 
